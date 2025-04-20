@@ -1,4 +1,5 @@
-import Main from "./components/header";
+import Main from "./components/Main";
+import './main.css'
 
 function App() {
 
